@@ -414,7 +414,7 @@ body {
 }
 
 .title-container::before {
-  content: "HTML-GO";
+  content: "SHOW-YOUR-CODE";
   position: absolute;
   top: 0;
   left: 0;
@@ -730,8 +730,8 @@ body {
 /* 输入区域 */
 .cyber-input {
   width: 100%;
-  min-height: 200px;
-  max-height: 500px;
+  min-height: 500px;
+  max-height: 800px;
   padding: 1rem;
   background: var(--bg-input) !important;
   background-color: var(--bg-input) !important;

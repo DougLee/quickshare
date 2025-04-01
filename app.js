@@ -59,7 +59,7 @@ app.get('/validate-password/:id', async (req, res) => {
 
 // 首页路由
 app.get('/', (req, res) => {
-  res.render('index', { title: 'HTML-Go | 分享 HTML 代码的简单方式' });
+  res.render('index', { title: 'Show Your Code | 分享代码的简单方式' });
 });
 
 // 导入代码类型检测和内容渲染工具
