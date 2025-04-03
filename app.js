@@ -87,7 +87,7 @@ app.get('/view/:id', async (req, res) => {
       // 如果没有提供密码或密码不正确，显示密码输入页面
       if (!password || password !== page.password) {
         return res.render('password', { 
-          title: 'HTML-Go | 密码保护',
+          title: 'SHOW-YOUR-CODE | 密码保护',
           id: id,
           error: password ? '密码错误，请重试' : null
         });

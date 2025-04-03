@@ -29,7 +29,7 @@ function renderHtml(content) {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>HTML-GO 查看器</title>
+      <title>SHOW-YOUR-CODE 查看器</title>
       
       <!-- 网站图标 -->
       <link rel="icon" href="/icon/web/favicon.ico" sizes="any">
@@ -326,7 +326,7 @@ async function renderMarkdown(content) {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>HTML-GO Markdown查看器</title>
+      <title>SHOW-YOUR-CODE Markdown查看器</title>
       
       <!-- 网站图标 -->
       <link rel="icon" href="/icon/web/favicon.ico" sizes="any">
@@ -392,7 +392,7 @@ function renderSvg(content) {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>HTML-GO SVG查看器</title>
+      <title>SHOW-YOUR-CODE SVG查看器</title>
       
       <!-- 网站图标 -->
       <link rel="icon" href="/icon/web/favicon.ico" sizes="any">
@@ -524,7 +524,7 @@ async function renderMermaid(content) {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>HTML-GO Mermaid查看器</title>
+        <title>SHOW-YOUR-CODE Mermaid查看器</title>
         
         <!-- 网站图标 -->
         <link rel="icon" href="/icon/web/favicon.ico" sizes="any">
@@ -663,7 +663,7 @@ ${escapedMermaidCode}
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>HTML-GO Mermaidu9519u8bef</title>
+        <title>SHOW-YOUR-CODE Mermaidu9519u8bef</title>
         <style>
           body {
             font-family: 'Roboto', sans-serif;
